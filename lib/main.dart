@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'utils/kakao_postcode_search/index.dart';
 
 void main() {
   runApp(const MyApp());
@@ -105,6 +106,7 @@ class _MyHomePageState extends State<MyHomePage> {
           // wireframe for each widget.
           mainAxisAlignment: MainAxisAlignment.center,
           children: <Widget>[
+            KakaoPostcodeSearch(title: "카카오 주소 검색 테스트"),
             const Text(
               'You have pushed the button this many times:',
             ),
