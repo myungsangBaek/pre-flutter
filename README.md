@@ -32,17 +32,17 @@ flutter -v pub get
 
 ### 1차 개발
 
-| Feature             | Developer   |
-| ------------------- | ----------- |
-| 카카오 주소검색 API | Youjin.choi |
-| PASS인증            | Youjin.choi |
-| PAYCO               | Han.baek    |
-| 카카오 맵API        | Han.baek    |
-| KAKAO로그인         | Han.baek    |
-| Naver로그인         | Youjin.choi |
-| Facebook로그인      | TBD         |
-| API모듈화           | TBD         |
-| 디렉토리구조        | TBD         |
+| Feature             | Developer   | Load | Interaction |
+| ------------------- | ----------- | ---- | ----------- |
+| 카카오 주소검색 API | Youjin.choi | ok | |
+| PASS인증            | Youjin.choi | | |
+| PAYCO               | Han.baek    | | |
+| 카카오 맵API        | Han.baek    | | |
+| KAKAO로그인         | Han.baek    | | |
+| Naver로그인         | Youjin.choi | | |
+| Facebook로그인      | TBD         | | |
+| API모듈화           | TBD         | | |
+| 디렉토리구조        | TBD         | | |
 
 ## Convention
 
